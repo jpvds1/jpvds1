@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center"> 
+    <h2> Hi, I'm João Silva 👋 </h2>
+</div>
+
+<br>
 
 <details>
     <summary> Programming languages </summary>
@@ -33,26 +37,16 @@
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" title="Git"> &nbsp;&nbsp;
 </details>
 
-###
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpvds1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvds1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpvds1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvds1&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </div>
 
-###
+<h2>Projects</h2>
+<p align="center">
 
-<!--
-**jpvds1/jpvds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Name | Description | UC |
+|------|-------------|----|
+| ProjectName | ProjectDescription | ProjectUC |
