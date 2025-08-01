@@ -49,9 +49,24 @@
 
 | Name | Description | UC |
 |------|-------------|----|
-| [CPA 2](https://github.com/jpvds1/CPA_PROJ_2) | TBD | MEIC |
-| [CPA 1](https://github.com/jpvds1/CPA_PROJ_1) | TBD | MEIC |
 | [AC](https://github.com/jpvds1/AC-PROJ) | TBD | MEIC |
-| [IA 2](https://github.com/jpvds1/IArtProj2) | TBD | LEIC |
+| [DSLE 1](https://github.com/jpvds1/DSLE_MODIFAI) | TBD | MEIC |
+| [DSLE 2](https://github.com/jpvds1/DSLE_WTD) | TBD | MEIC |
+| [CPA 1](https://github.com/jpvds1/CPA_PROJ_1) | TBD | MEIC |
+| [CPA 2](https://github.com/jpvds1/CPA_PROJ_2) | TBD | MEIC |
 | [IA 1](https://github.com/jpvds1/IArtProj1) | TBD | LEIC |
+| [IA 2](https://github.com/jpvds1/IArtProj2) | TBD | LEIC |
 | [RCOM](https://github.com/jpvds1/RCOM) | TBD | LEIC |
+| [LBAW](https://github.com/jpvds1/LBAW) | TBD | LEIC |
+| [FSI](https://github.com/jpvds1/FSI) | TBD | LEIC |
+| [Comp](https://github.com/jpvds1/Comp) | TBD | LEIC |
+| [CG](https://github.com/jpvds1/CG) | TBD | LEIC |
+| [CPD](https://github.com/jpvds1/CPD) | TBD | LEIC |
+| [LCOM](https://github.com/jpvds1/LCOM) | TBD | LEIC |
+| [LDTS](https://github.com/jpvds1/LDTS) | TBD | LEIC |
+| [BD](https://github.com/jpvds1/BD) | TBD | LEIC |
+| [AED 1](https://github.com/jpvds1/AED_PROJ1/) | TBD | LEIC |
+| [AED 2](https://github.com/jpvds1/AED_PROJ2) | TBD | LEIC |
+| [SO](https://github.com/jpvds1/SO) | TBD | LEIC |
+| [LTW](https://github.com/jpvds1/LTW) | TBD | LEIC |
+| [ESOF](https://github.com/jpvds1/ESOF) | TBD | LEIC |
