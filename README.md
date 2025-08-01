@@ -49,4 +49,9 @@
 
 | Name | Description | UC |
 |------|-------------|----|
-| [DinoGame](https://github.com/jpvds1/DinoGame) | A simple recreation of the famous web browser game. Made in C++ with extensive use of SFML. | Original |
+| [CPA 2](https://github.com/jpvds1/CPA_PROJ_2) | TBD | MEIC |
+| [CPA 1](https://github.com/jpvds1/CPA_PROJ_1) | TBD | MEIC |
+| [AC](https://github.com/jpvds1/AC-PROJ) | TBD | MEIC |
+| [IA 2](https://github.com/jpvds1/IArtProj2) | TBD | LEIC |
+| [IA 1](https://github.com/jpvds1/IArtProj1) | TBD | LEIC |
+| [RCOM](https://github.com/jpvds1/RCOM) | TBD | LEIC |
